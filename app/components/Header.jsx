@@ -57,7 +57,7 @@ const Header = () => {
         transition={{ duration: 0.6, delay: 1.2 }}
 
 
-          href="/Peradheep_Resume(without_photo).pdf"
+          href="/PeradheepY_Resume.pdf"
           download
           className="px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black"
         >
